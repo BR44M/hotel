@@ -1,4 +1,4 @@
-# LaraVue - a simple room reservation system application
+# Simple reservation - a simple room reservation system application
 
 ## Recommended Requirements:
 * PHP Version: PHP 7.3.*
